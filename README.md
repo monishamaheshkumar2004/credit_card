@@ -43,12 +43,6 @@ Key highlights:
 - Achieved high accuracy on both training and testing sets
 
 
- 🚀 Streamlit Application
-
-The project includes a Streamlit web app that:
-- Allows users to **upload a CSV file** of transaction data
-- Trains a logistic regression model on the uploaded data
-- Lets users input transaction features for real-time fraud prediction
 
  💻 Tech Stack
 
