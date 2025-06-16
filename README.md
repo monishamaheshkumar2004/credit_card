@@ -1,7 +1,6 @@
  💳 Credit Card Fraud Detection using Machine Learning
 
-A machine learning-based system for detecting fraudulent credit card transactions. This project implements **logistic regression** to classify transactions as legitimate or fraudulent, and includes a **Streamlit application** for real-time predictions.
-
+A machine learning-based system for detecting fraudulent credit card transactions. This project implements **logistic regression** to classify transactions as legitimate or fraudulent.
 
 
  📌 Project Overview
@@ -12,8 +11,6 @@ Key highlights:
 - 🏷️ **Classification Model:** Logistic Regression
 - ⚖️ **Data balancing:** Undersampling of legitimate transactions to address class imbalance
 - 📊 **Evaluation:** Accuracy metric on both training and testing sets
-- 🖥️ **Interactive Interface:** Streamlit app for predictions on uploaded datasets and individual transactions
-
 
  🗂️ Dataset
 
